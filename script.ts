@@ -1,5 +1,5 @@
 /*
- * This is Board Program
+ * This is Tip Calculator Program
  *
  * @author  Abdul Basit Butt
  * @version 1.0
